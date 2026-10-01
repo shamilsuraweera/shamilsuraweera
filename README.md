@@ -4,8 +4,6 @@
 
 **ERP Engineer & Consultant** | Cortex ERP | Microsoft Dynamics 365 | Odoo
 
-Colombo, Sri Lanka
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shamilsuraweera-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shamilsuraweera)
 [![GitHub](https://img.shields.io/badge/GitHub-shamilsuraweera-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shamilsuraweera)
 [![Email](https://img.shields.io/badge/Email-shamilsuraweera%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shamilsuraweera@gmail.com)
@@ -16,7 +14,7 @@ Colombo, Sri Lanka
 
 ### About
 
-ERP software developer and functional consultant. I build my own ERP, and customize, implement and support Microsoft Dynamics 365 and Odoo for enterprise clients across the UK, Ireland and the US.
+ERP software developer and functional consultant. I build my own ERP, and customize, implement and support Microsoft Dynamics 365 and Odoo for enterprise and SME clients across the UK, Ireland, the US, the Middle East and Australia.
 
 ```text
 $ whoami
