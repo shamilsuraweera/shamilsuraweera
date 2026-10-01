@@ -1,7 +1,5 @@
 <div align="center">
 
-# Shamil Suraweera
-
 **ERP Engineer & Consultant** | Cortex ERP | Microsoft Dynamics 365 | Odoo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shamilsuraweera-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shamilsuraweera)
@@ -10,7 +8,7 @@
 
 </div>
 
-ERP software developer and functional consultant. I build my own ERP, and customize, implement and support Microsoft Dynamics 365 and Odoo for enterprise and SME clients across the UK, Ireland, the US, the Middle East and Australia.
+ERP software developer and functional consultant. I build my own ERP, and customize, implement and support Microsoft Dynamics 365 and Odoo for enterprise and SME clients across South Asia, Northwestern Europe, North America, the Middle East and Australia.
 
 | Stack | |
 |:--|:--|
