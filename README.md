@@ -26,7 +26,7 @@ ERP software developer and functional consultant. I build my own ERP, and custom
 
 <div align="center">
 
-<a href="https://github.com/shamilsuraweera"><img height="130" src="https://github-readme-stats.vercel.app/api?username=shamilsuraweera&show_icons=true&hide_border=true&theme=dark&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_title=true&card_width=400" alt="GitHub stats"></a>
-<a href="https://github.com/shamilsuraweera"><img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamilsuraweera&layout=compact&hide_border=true&theme=dark&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&card_width=400" alt="Top languages"></a>
+<a href="https://github.com/shamilsuraweera"><img height="130" src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats"></a>
+<a href="https://github.com/shamilsuraweera"><img height="130" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages"></a>
 
 </div>
