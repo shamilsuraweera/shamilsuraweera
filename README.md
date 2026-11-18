@@ -2,7 +2,7 @@
 
 # Techno-Functional Consultant
 
-Designs the data foundations and system architecture behind our ERP implementations.
+Designs the data foundations and system architecture behind our ERP and other software implementations.
 
 **Microsoft Dynamics 365 | Odoo | SAP | Cortex ERP**
 
